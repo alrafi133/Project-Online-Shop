@@ -1,4 +1,11 @@
 ###################
+Introduction
+###################
+Hello, we from group 2 want to present the results of our project, our group
+consists of Bagus, Rafli(Chairman), Dennins, and Ivan.
+Happy Coding :)
+
+###################
 What is CodeIgniter
 ###################
 
